@@ -1,0 +1,10 @@
+Group Name,Group Type,Description,Owner,Member Count
+HR Team,Security,HR department members with access to HR shared mailbox and files,Ethan Brooks,3
+Finance Team,Security,Finance department members with access to secured finance folders,Priya Nair,4
+Operations Team,Security,Operations department members with access to operations drives,Daniel Ortiz,6
+Sales Team,Security,Sales department members with access to CRM and sales shared folders,Lucas Green,6
+Managers,Security,All department managers and directors for management resources,Olivia Bennett,6
+New Hires,Microsoft 365,Temporary group applied during onboarding for baseline apps and policies,David Cohen,1
+Shared Mailbox Users,Mail-enabled Security,Users granted access to shared mailboxes (info@ and support@),David Cohen,8
+VPN Users,Security,Users approved for remote VPN access via Conditional Access,David Cohen,12
+Printer Access Group,Security,Users permitted to print to networked office multifunction printers,Sofia Alvarez,24

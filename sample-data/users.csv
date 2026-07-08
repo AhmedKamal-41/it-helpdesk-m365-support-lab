@@ -1,0 +1,26 @@
+Full Name,Username,Email,Department,Job Title,Manager,License Type,MFA Enabled,Account Status
+Olivia Bennett,obennett,obennett@queenstech.example,Management,CEO,,Microsoft 365 Business Premium,Yes,Active
+Marcus Reed,mreed,mreed@queenstech.example,Management,Operations Director,Olivia Bennett,Microsoft 365 Business Premium,Yes,Active
+Priya Nair,pnair,pnair@queenstech.example,Management,Finance Director,Olivia Bennett,Microsoft 365 Business Premium,Yes,Active
+David Cohen,dcohen,dcohen@queenstech.example,IT,IT Manager,Olivia Bennett,Microsoft 365 Business Premium,Yes,Active
+Sofia Alvarez,salvarez,salvarez@queenstech.example,IT,Help Desk Technician,David Cohen,Microsoft 365 Business Premium,Yes,Active
+Ethan Brooks,ebrooks,ebrooks@queenstech.example,HR,HR Manager,Olivia Bennett,Microsoft 365 Business Standard,Yes,Active
+Grace Liu,gliu,gliu@queenstech.example,HR,HR Generalist,Ethan Brooks,Microsoft 365 Business Standard,Yes,Active
+Hannah Osei,hosei,hosei@queenstech.example,HR,Recruiter,Ethan Brooks,Microsoft 365 Business Standard,Yes,Active
+James Carter,jcarter,jcarter@queenstech.example,Finance,Senior Accountant,Priya Nair,Microsoft 365 Business Standard,Yes,Active
+Nina Patel,npatel,npatel@queenstech.example,Finance,Accountant,Priya Nair,Microsoft 365 Business Standard,Yes,Active
+Robert King,rking,rking@queenstech.example,Finance,Accounts Payable Clerk,Priya Nair,Microsoft 365 Business Standard,Yes,Active
+Aisha Khan,akhan,akhan@queenstech.example,Finance,Payroll Specialist,Priya Nair,Microsoft 365 Business Standard,Yes,Active
+Daniel Ortiz,dortiz,dortiz@queenstech.example,Operations,Operations Manager,Marcus Reed,Microsoft 365 Business Standard,Yes,Active
+Emma Wilson,ewilson,ewilson@queenstech.example,Operations,Operations Coordinator,Daniel Ortiz,Microsoft 365 Business Standard,Yes,Active
+Liam Murphy,lmurphy,lmurphy@queenstech.example,Operations,Logistics Associate,Daniel Ortiz,Microsoft 365 Business Standard,Yes,Active
+Chloe Martin,cmartin,cmartin@queenstech.example,Operations,Office Administrator,Daniel Ortiz,Microsoft 365 Business Standard,Yes,Active
+Noah Thompson,nthompson,nthompson@queenstech.example,Operations,Facilities Coordinator,Daniel Ortiz,Microsoft 365 Business Standard,No,Active
+Zara Ahmed,zahmed,zahmed@queenstech.example,Operations,Data Entry Clerk,Daniel Ortiz,Microsoft 365 Business Standard,Yes,Active
+Lucas Green,lgreen,lgreen@queenstech.example,Sales,Sales Manager,Marcus Reed,Microsoft 365 Business Standard,Yes,Active
+Mia Roberts,mroberts,mroberts@queenstech.example,Sales,Account Executive,Lucas Green,Microsoft 365 Business Standard,Yes,Active
+Oliver Scott,oscott,oscott@queenstech.example,Sales,Account Executive,Lucas Green,Microsoft 365 Business Standard,Yes,Active
+Ava Turner,aturner,aturner@queenstech.example,Sales,Sales Development Rep,Lucas Green,Microsoft 365 Business Standard,Yes,Active
+Ryan Evans,revans,revans@queenstech.example,Sales,Sales Development Rep,Lucas Green,Microsoft 365 Business Standard,No,Active
+Isabella Rossi,irossi,irossi@queenstech.example,Sales,Customer Success Rep,Lucas Green,Microsoft 365 Business Standard,Yes,Active
+Ben Foster,bfoster,bfoster@queenstech.example,Operations,Intern,Daniel Ortiz,Microsoft 365 Business Basic,No,Disabled
