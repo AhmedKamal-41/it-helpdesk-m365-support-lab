@@ -1,0 +1,29 @@
+Metric,Value
+Total Tickets,30
+Open Tickets,0
+Resolved Tickets,30
+Escalated Tickets,4
+Average Resolution Time (hrs),1.46
+First Contact Resolution Rate,87%
+Reporting Period,2026-06-08 to 2026-07-07
+Category - Password Reset,3
+Category - Account Lockout,2
+Category - Microsoft 365,1
+Category - Outlook,2
+Category - Teams,2
+Category - OneDrive,2
+Category - Printer,1
+Category - VPN,2
+Category - Wi-Fi / Network,2
+Category - Hardware,2
+Category - Software Installation,2
+Category - Access Request,2
+Category - Shared Folder,2
+Category - MFA,2
+Category - Security / Phishing,1
+Category - New Hire Setup,1
+Category - Offboarding,1
+Priority - P1 Critical,1
+Priority - P2 High,11
+Priority - P3 Medium,16
+Priority - P4 Low,2

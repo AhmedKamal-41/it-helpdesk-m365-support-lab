@@ -1,0 +1,31 @@
+Ticket ID,Title,User,Department,Category,Priority,Status,Escalated,Resolution Time (hrs)
+TKT-001,Password reset request,rking,Finance,Password Reset,P2,Resolved,No,0.5
+TKT-002,Outlook not syncing new mail,jcarter,Finance,Outlook,P3,Resolved,No,1.5
+TKT-003,Printer not connecting,cmartin,Operations,Printer,P3,Resolved,No,1.0
+TKT-004,Account locked out,npatel,Finance,Account Lockout,P2,Resolved,No,0.4
+TKT-005,Cannot access Microsoft 365 apps,ava turner,Sales,Microsoft 365,P2,Resolved,No,1.2
+TKT-006,Teams no audio in meetings,ewilson,Operations,Teams,P3,Resolved,No,0.8
+TKT-007,OneDrive stuck syncing,gliu,HR,OneDrive,P3,Resolved,No,1.3
+TKT-008,VPN will not connect,oscott,Sales,VPN,P2,Resolved,Yes,3.0
+TKT-009,Office Wi-Fi keeps dropping,liam murphy,Operations,Wi-Fi / Network,P3,Resolved,No,1.1
+TKT-010,Laptop will not power on,mroberts,Sales,Hardware,P2,Resolved,Yes,4.5
+TKT-011,Install Adobe Reader,zahmed,Operations,Software Installation,P4,Resolved,No,2.0
+TKT-012,Access to Finance shared folder,robert king,Finance,Access Request,P3,Resolved,No,1.0
+TKT-013,Cannot open shared department drive,emma wilson,Operations,Shared Folder,P3,Resolved,No,0.9
+TKT-014,MFA not sending codes,ryan evans,Sales,MFA,P2,Resolved,No,0.7
+TKT-015,Suspicious phishing email received,aisha khan,Finance,Security / Phishing,P1,Resolved,Yes,2.5
+TKT-016,New hire setup - Operations,ben foster,Operations,New Hire Setup,P3,Resolved,No,3.5
+TKT-017,Offboarding departing employee,intern,Operations,Offboarding,P3,Resolved,No,2.0
+TKT-018,Forgot password locked account,hosei,HR,Password Reset,P2,Resolved,No,0.5
+TKT-019,Outlook calendar not updating,pnair,Management,Outlook,P3,Resolved,No,1.0
+TKT-020,Teams camera not detected,irossi,Sales,Teams,P3,Resolved,No,0.9
+TKT-021,OneDrive files missing after sync,nthompson,Operations,OneDrive,P3,Resolved,No,1.4
+TKT-022,VPN slow and disconnecting,revans,Sales,VPN,P3,Resolved,No,1.6
+TKT-023,No internet on desktop,rking,Finance,Wi-Fi / Network,P2,Resolved,No,1.0
+TKT-024,Monitor not displaying,jcarter,Finance,Hardware,P3,Resolved,No,0.8
+TKT-025,Install Microsoft Project,dortiz,Operations,Software Installation,P4,Resolved,Yes,5.0
+TKT-026,Request access to CRM,aturner,Sales,Access Request,P3,Resolved,No,1.2
+TKT-027,Shared mailbox not showing,gliu,HR,Shared Folder,P3,Resolved,No,1.0
+TKT-028,Reset MFA on new phone,lgreen,Sales,MFA,P2,Resolved,No,0.6
+TKT-029,Password expired cannot login,ewilson,Operations,Password Reset,P2,Resolved,No,0.4
+TKT-030,Account lockout after travel,mreed,Management,Account Lockout,P2,Resolved,No,0.5
