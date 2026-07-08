@@ -1,6 +1,6 @@
 # Modern IT Help Desk + Microsoft 365 Lab
 
-> A hands-on Level 1 IT support lab that documents real help desk work end to end — ticketing, troubleshooting, knowledge base, Microsoft 365 / Entra ID administration, identity lifecycle, and PowerShell automation — against a realistic Microsoft 365 environment.
+ A hands-on Level 1 IT support lab that documents real help desk work end to end — ticketing, troubleshooting, knowledge base, Microsoft 365 / Entra ID administration, identity lifecycle, and PowerShell automation — against a realistic Microsoft 365 environment.
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6?logo=windows&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Entra%20ID-0F6CBD?logo=microsoft&logoColor=white)
